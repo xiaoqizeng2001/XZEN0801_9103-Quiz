@@ -1,4 +1,6 @@
-# XZEN0801_9103-Quiz
+# XZEN0801_9103
+## Week 8 Quiz
+### Part 1
 I was inspired by Daniel Stryjecki's multimedia performance. He achieved this project by combining dance moves and interactive animation techniques. The video shows the amazing interaction between light and the dancers' movements, extending the visuals while also amplifying the dancers' movements. As for how to present this art in my work, I think I can replace the dancer movement with the mouse operation. Click the mouse, long press the mouse, slide the mouse can control different animation effects.
 Youtube link: [Link Text](https://www.youtube.com/watch?v=hw-TO1zOHVI)
 
@@ -6,6 +8,7 @@ Youtube link: [Link Text](https://www.youtube.com/watch?v=hw-TO1zOHVI)
 ![An image of the Inspiration](readmeImages/2.png)
 ![An image of the Inspiration](readmeImages/3.png)
 
+### Part 2
 The first coding technique that I found is to use a technique called a "particle system" in p5.js. This will simulate the visual effects of the explosion.
 Particle system: 
 [Link Text](https://p5js.org/zh-Hans/examples/simulate-particle-system.html)
